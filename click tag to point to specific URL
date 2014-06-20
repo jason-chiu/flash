@@ -1,0 +1,7 @@
+on (release) {
+
+	//Goto Webpage Behavior
+	getURL("http://xxxxxxxxxx","_blank");
+	//End Behavior
+
+}
